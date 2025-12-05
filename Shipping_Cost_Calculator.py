@@ -1,4 +1,4 @@
- # Here is a new update by <j409678976-oss>
+# Here is a new update by <j409678976-oss>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
